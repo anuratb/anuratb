@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello there 👋
+
+- 📫 How to reach me: [Linkedin](https://in.linkedin.com/in/anurat-bhattacharya-9a12861a3)
+
+![Anurat's github stats](https://github-readme-stats.vercel.app/api?username=anuratb)
 
 <!--
 **anuratb/anuratb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
