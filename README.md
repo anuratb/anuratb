@@ -1,7 +1,5 @@
 ### Hello there 👋
 
-- 📫 How to reach me: [Linkedin](https://in.linkedin.com/in/anurat-bhattacharya-9a12861a3)
-
 ![Anurat's github stats](https://github-readme-stats.vercel.app/api?username=anuratb)
 
 <!--
